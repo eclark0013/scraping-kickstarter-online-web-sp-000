@@ -19,7 +19,7 @@ def create_project_hash
     }
   end
 
-  projects[:thing1] = "thing2"
+  projects[:thing1] = {}
 
 
   projects
